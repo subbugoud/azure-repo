@@ -1,0 +1,3 @@
+%sql
+SHOW TABLES;                          -- current schema
+SHOW TABLES IN catalog_subbu.bronze;  -- specific schema
